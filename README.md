@@ -8,6 +8,7 @@ CSS  Resources
 - [Cutting out the inner part of an element using clip-path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) by [@Ana Tudor](https://twitter.com/thebabydino)
 - [Fun with line-height!](https://css-tricks.com/fun-line-height/) by @Chris Coyier
 - [Automating Style Guide-Driven Development](http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/) by [Varya Stepanova & Juuso Backman](http://www.smashingmagazine.com/author/varyastepanovajuusobackman/)
+- [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/) by [@Dustan Kasten](http://www.smashingmagazine.com/author/dustankasten/)
 
 ### Grid
 
@@ -18,6 +19,7 @@ CSS  Resources
 - [The Complete Beginner’s Guide to Chinese Fonts](http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444) by [@Kendra Schaefer](http://tutsplus.com/authors/kendra-schaefer)
 - [How we use web fonts responsibly, or, avoiding a @font-face-palm](http://www.filamentgroup.com/lab/font-loading.html) by [@Zach](http://www.filamentgroup.com/about/#zach-leatherman)
 - [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
+- [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
 
 ### Animation
 
