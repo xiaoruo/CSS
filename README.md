@@ -2,7 +2,7 @@
 CSS  Resources
 
 ### Basics
-- [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
+- [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan) [已认领 by[@小八](https://github.com/tianzhipeng-git)]
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) by [@HEYDON PICKERING](http://alistapart.com/author/heydonworks)
 - [Why you should be excited about CSS shapes](http://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/) by [@Hui Jing](https://github.com/huijing)
 - [Cutting out the inner part of an element using clip-path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) by [@Ana Tudor](https://twitter.com/thebabydino)
