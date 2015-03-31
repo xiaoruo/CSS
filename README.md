@@ -2,9 +2,9 @@
 CSS  Resources
 
 ### Basics
-- [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan) [已认领 by[@小八](https://github.com/tianzhipeng-git)]
+- [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan) [已认领 by[小八](https://github.com/tianzhipeng-git)]
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) by [@HEYDON PICKERING](http://alistapart.com/author/heydonworks)
-- [Why you should be excited about CSS shapes](http://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/) by [@Hui Jing](https://github.com/huijing)
+- [Why you should be excited about CSS shapes](http://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/) by [@Hui Jing](https://github.com/huijing) [已认领 by[小八](https://github.com/tianzhipeng-git)]
 - [Cutting out the inner part of an element using clip-path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) by [@Ana Tudor](https://twitter.com/thebabydino)
 - [Fun with line-height!](https://css-tricks.com/fun-line-height/) by @Chris Coyier
 - [Automating Style Guide-Driven Development](http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/) by [Varya Stepanova & Juuso Backman](http://www.smashingmagazine.com/author/varyastepanovajuusobackman/)
