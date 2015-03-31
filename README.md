@@ -21,6 +21,7 @@ CSS  Resources
 - [How we use web fonts responsibly, or, avoiding a @font-face-palm](http://www.filamentgroup.com/lab/font-loading.html) by [@Zach](http://www.filamentgroup.com/about/#zach-leatherman)
 - [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
 - [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
+- [Faster Font Loading with Font Events](https://jonsuh.com/blog/font-loading-with-font-events/) By [@Jonathan Suh](https://jonsuh.com/blog/font-loading-with-font-events/)
 
 ### Animation
 
