@@ -9,6 +9,7 @@ CSS  Resources
 - [Fun with line-height!](https://css-tricks.com/fun-line-height/) by @Chris Coyier
 - [Automating Style Guide-Driven Development](http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/) by [Varya Stepanova & Juuso Backman](http://www.smashingmagazine.com/author/varyastepanovajuusobackman/)
 - [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/) by [@Dustan Kasten](http://www.smashingmagazine.com/author/dustankasten/)
+- [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ### Grid
 
