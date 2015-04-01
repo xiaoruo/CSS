@@ -25,6 +25,7 @@ CSS  Resources
 
 ### Animation
 
+- [Adding Appeal to Your Animations on the Web](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649) by [@Donovan Hutchinson](http://tutsplus.com/authors/donovan-hutchinson)
 - [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/) by [@Rachel Nabors](http://www.smashingmagazine.com/author/rachelnabors/)
 - [Animation Principles for the Web](https://cssanimation.rocks/principles/)
 - [Invisible animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5) by [@Steven Fabre](https://medium.com/@stevenfabre)
