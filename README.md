@@ -2,6 +2,8 @@
 CSS  Resources
 
 ### Basics
+
+- [BEM 101](https://css-tricks.com/bem-101/) by [@Joe Richardson](http://lifes.gd/)
 - [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)—— [译文](http://www.w3cplus.com/css/a-primer-to-background-positioning-in-css.html) by[@小八](https://github.com/tianzhipeng-git)
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) by [@HEYDON PICKERING](http://alistapart.com/author/heydonworks)
 - [Why you should be excited about CSS shapes](http://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/) by [@Hui Jing](https://github.com/huijing) [已认领 by[小八](https://github.com/tianzhipeng-git)]
@@ -14,6 +16,11 @@ CSS  Resources
 ### Grid
 
 - [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/) by [@Ryan Morr](http://www.sitepoint.com/author/rmorr/)
+
+
+### CSS3
+
+- [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)
 
 ### Typography
 
