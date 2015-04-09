@@ -47,3 +47,8 @@ CSS  Resources
 - [Using Flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/) by [@Chris Wright](https://github.com/chriswrightdesign)——[译文](http://www.w3cplus.com/css3/using-flexbox-today.html) by [@Blueed](http://weibo.com/blueed)
 - [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/) by [@Chris Wright](https://github.com/chriswrightdesign)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
+### Performance
+
+- [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)
