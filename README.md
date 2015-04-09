@@ -26,12 +26,12 @@ CSS  Resources
 
 - [The Complete Beginner’s Guide to Chinese Fonts](http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444) by [@Kendra Schaefer](http://tutsplus.com/authors/kendra-schaefer)[已认领 by[@lizimeow](https://github.com/lizimeow)]
 - [How we use web fonts responsibly, or, avoiding a @font-face-palm](http://www.filamentgroup.com/lab/font-loading.html) by [@Zach](http://www.filamentgroup.com/about/#zach-leatherman)
-- [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
 - [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
 - [Faster Font Loading with Font Events](https://jonsuh.com/blog/font-loading-with-font-events/) By [@Jonathan Suh](https://jonsuh.com/blog/font-loading-with-font-events/)
 
 ### Animation
 
+- [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
 - [Animating CSS-Only Hamburger Menu Icons](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) by [@Nick Salloum](http://speckyboy.com/author/nick-salloum/)
 - [In Pieces: A rare specimen of CSS-based animation](http://motionographer.com/2015/03/19/in-pieces-a-rare-specimen-of-css-based-animation/) by [@JUSTIN CONE](http://justincone.com/) [小健已认领]
 - [Adding Appeal to Your Animations on the Web](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649) by [@Donovan Hutchinson](http://tutsplus.com/authors/donovan-hutchinson)
@@ -53,3 +53,5 @@ CSS  Resources
 ### Performance
 
 - [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)
+- [Improving Font Performance with Subsetting and Local Storage](http://www.sitepoint.com/improving-font-performance-subsetting-local-storage/) by [@Luis Vieira](http://www.sitepoint.com/author/lvieira/)
+- [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
