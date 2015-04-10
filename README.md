@@ -3,6 +3,8 @@ CSS  Resources
 
 ### Basics
 
+- [CSS FONT SIZING](http://bitsofco.de/2015/css-font-sizing/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)
+- [7 CSS Units You Might Not Know About](http://webdesign.tutsplus.com/articles/7-css-units-you-might-not-know-about--cms-22573) by [@Jonathan Cutrell](http://tutsplus.com/authors/jonathan-cutrell)
 - [BEM 101](https://css-tricks.com/bem-101/) by [@Joe Richardson](http://lifes.gd/)
 - [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)—— [译文](http://www.w3cplus.com/css/a-primer-to-background-positioning-in-css.html) by[@小八](https://github.com/tianzhipeng-git)
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) by [@HEYDON PICKERING](http://alistapart.com/author/heydonworks)
