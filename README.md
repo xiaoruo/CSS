@@ -55,4 +55,4 @@ CSS  Resources
 - [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)
 - [Improving Font Performance with Subsetting and Local Storage](http://www.sitepoint.com/improving-font-performance-subsetting-local-storage/) by [@Luis Vieira](http://www.sitepoint.com/author/lvieira/)
 - [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
-- [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/) by [@子回](http://github.com/tjwudi)
+- [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/) 认领 by [@子回](http://github.com/tjwudi)
