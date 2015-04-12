@@ -22,7 +22,7 @@ CSS  Resources
 
 ### CSS3
 
-- [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)
+- [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)[@lizimeow认领]
 
 ### Typography
 
