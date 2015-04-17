@@ -61,8 +61,8 @@ CSS  Resources
 
 ### Performance
 
-- [How to Keep your Site Fast for Mobile-Friendly](http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly) by [@Billy Hoffman](http://moz.com/community/users/579497)
-- [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)
+- [How to Keep your Site Fast for Mobile-Friendly](http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly) by [@Billy Hoffman](http://moz.com/community/users/579497) (南北认领)
+- [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)（南北认领）
 - [Improving Font Performance with Subsetting and Local Storage](http://www.sitepoint.com/improving-font-performance-subsetting-local-storage/) by [@Luis Vieira](http://www.sitepoint.com/author/lvieira/)
 - [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
 - [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/) 认领 by [@子回](http://github.com/tjwudi)
