@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)
 - [Semantic HTML for Web Content](http://sixrevisions.com/html/semantic-html-web-content/) by [@Jacob Gube](http://twitter.com/sixrevisions)
 - [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham
 - [COLORS IN CSS](http://hugogiraudel.com/2012/11/27/css-colors/) by [@Hugo](http://hugogiraudel.com/)
