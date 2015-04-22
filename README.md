@@ -3,6 +3,9 @@ CSS  Resources
 
 ### Basics
 
+- [HTML vs Body in CSS](https://css-tricks.com/html-vs-body-in-css/) by @Geoff Graham
+- [More Control over Text Decoration](https://css-tricks.com/more-control-over-text-decoration/) by [@Chris Coyier](https://css-tricks.com)
+- [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d) by [@cathy dutton](https://medium.com/@cathy_dutton)
 - [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)
 - [Semantic HTML for Web Content](http://sixrevisions.com/html/semantic-html-web-content/) by [@Jacob Gube](http://twitter.com/sixrevisions)
 - [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham
@@ -27,6 +30,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Making Sense of Clip Path](https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c) by [@Drew Minns](https://medium.com/@drewisthe)
 - [Do you really know CSS linear-gradients?](https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)[@lizimeow认领]
 
@@ -61,6 +65,7 @@ CSS  Resources
 
 ### Performance
 
+- [WebP Images & Performance](http://davidwalsh.name/webp-images-performance) by [@Matt Shull](http://mattshull.com/)
 - [How to Keep your Site Fast for Mobile-Friendly](http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly) by [@Billy Hoffman](http://moz.com/community/users/579497) (南北认领)
 - [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)（南北认领）
 - [Improving Font Performance with Subsetting and Local Storage](http://www.sitepoint.com/improving-font-performance-subsetting-local-storage/) by [@Luis Vieira](http://www.sitepoint.com/author/lvieira/)
