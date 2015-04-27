@@ -60,7 +60,7 @@ CSS  Resources
 - [Harnessing Flexbox For Today’s Web Apps](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/harnessing-flexbox-for-todays-web-apps.html) by [@婼籽](http://weibo.com/3315650703/)
 - [Using Flexbox today](http://chriswrightdesign.com/experiments/using-flexbox-today/) by [@Chris Wright](https://github.com/chriswrightdesign)——[译文](http://www.w3cplus.com/css3/using-flexbox-today.html) by [@Blueed](http://weibo.com/blueed)
 - [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/) by [@Chris Wright](https://github.com/chriswrightdesign)  [nalixue已认领] 
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)[大漠认领]
 
 
 ### Performance
