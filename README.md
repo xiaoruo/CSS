@@ -76,3 +76,12 @@ CSS  Resources
 ### Tools
 
 - [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements) by [@Heather Mahan](http://www.html5rocks.com/profiles/#heathermahan)
+
+### BEM
+
+- [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/) by [@Patrick Catanzariti](http://www.sitepoint.com/author/pcatanzariti/)
+- [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
+
+### Components
+
+- [Designing Front-End Components](http://ponyfoo.com/articles/designing-front-end-components)
