@@ -30,6 +30,7 @@ CSS  Resources
 
 ### CSS3
 
+- [An Introduction To Graphical Effects in CSS](http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Making Sense of Clip Path](https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c) by [@Drew Minns](https://medium.com/@drewisthe)——[译文](http://www.w3cplus.com/css3/using-making-sense-of-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
 - [Do you really know CSS linear-gradients?](https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)[@lizimeow认领]
@@ -43,6 +44,7 @@ CSS  Resources
 
 ### Animation
 
+- [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)
 - [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
 - [Animating CSS-Only Hamburger Menu Icons](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) by [@Nick Salloum](http://speckyboy.com/author/nick-salloum/)
 - [In Pieces: A rare specimen of CSS-based animation](http://motionographer.com/2015/03/19/in-pieces-a-rare-specimen-of-css-based-animation/) by [@JUSTIN CONE](http://justincone.com/) [小健已认领]
