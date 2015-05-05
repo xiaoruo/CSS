@@ -31,7 +31,7 @@ CSS  Resources
 ### CSS3
 
 - [How to create a CSS3 progress bar](http://www.developerdrive.com/2015/05/how-to-create-a-css3-progress-bar/) by [@ Sam Norton](http://www.developerdrive.com/author/Sam-Norton)
-- [Extending the Color Cascade with the CSS currentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
+- [Extending the Color Cascade with the CSS currentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)[认领by彦子]
 - [An Introduction To Graphical Effects in CSS](http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Making Sense of Clip Path](https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c) by [@Drew Minns](https://medium.com/@drewisthe)——[译文](http://www.w3cplus.com/css3/using-making-sense-of-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
 - [Do you really know CSS linear-gradients?](https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
