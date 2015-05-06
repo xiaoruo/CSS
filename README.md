@@ -66,17 +66,6 @@ CSS  Resources
 - [Flexbox adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/) by [@Chris Wright](https://github.com/chriswrightdesign) ——[译文](http://www.w3cplus.com/css3/flexbox-adventures.html) by [@Minoz-那](http://www.w3cplus.com/blogs/minoz)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)[大漠认领]
 
-
-### Performance
-
-- [More Weight Doesn't Mean More Wait](http://www.filamentgroup.com/lab/weight-wait.html)  by [@Scott](http://www.filamentgroup.com/about/#scott-jehl)
-- [WebP Images & Performance](http://davidwalsh.name/webp-images-performance) by [@Matt Shull](http://mattshull.com/)
-- [How to Keep your Site Fast for Mobile-Friendly](http://moz.com/blog/how-to-keep-your-site-fast-for-mobile-friendly) by [@Billy Hoffman](http://moz.com/community/users/579497) ——[译文](http://www.w3cplus.com/performance/how-to-keep-your-site-fast-for-mobile-friendly.html)  by [@南北](http://weibo.com/sunchongsheng)
-- [High performance HTML](https://samdutton.wordpress.com/2015/04/02/high-performance-html/) by [@Sam Dutton](https://samdutton.wordpress.com/author/samdutton/)——[译文](http://www.w3cplus.com/performance/high-performance-html.html) by [@南北](http://weibo.com/sunchongsheng)
-- [Improving Font Performance with Subsetting and Local Storage](http://www.sitepoint.com/improving-font-performance-subsetting-local-storage/) by [@Luis Vieira](http://www.sitepoint.com/author/lvieira/)
-- [Better webfont loading with using localStorage and providing WOFF2 support](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html) by [@Adam Beres-Deak](http://bdadam.com/about.html)
-- [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/) 认领 by [@子回](http://github.com/tjwudi)
-
 ### Tools
 
 - [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements) by [@Heather Mahan](http://www.html5rocks.com/profiles/#heathermahan)
