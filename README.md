@@ -31,6 +31,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Creating Responsive Shapes With Clip-Path And Breaking Out Of The Box](http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)
 - [How to create a CSS3 progress bar](http://www.developerdrive.com/2015/05/how-to-create-a-css3-progress-bar/) by [@ Sam Norton](http://www.developerdrive.com/author/Sam-Norton)
 - [Extending the Color Cascade with the CSS currentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)——[译文](http://www.w3cplus.com/css3/extending-the-color-cascade-with-the-css-currentcolor-variable.html)  by [@彦子](http://weibo.com/793617505sy)
 - [An Introduction To Graphical Effects in CSS](http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
