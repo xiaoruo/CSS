@@ -37,7 +37,7 @@ CSS  Resources
 - [An Introduction To Graphical Effects in CSS](http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Making Sense of Clip Path](https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c) by [@Drew Minns](https://medium.com/@drewisthe)——[译文](http://www.w3cplus.com/css3/using-making-sense-of-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
 - [Do you really know CSS linear-gradients?](https://medium.com/@patrickbrosset/do-you-really-understand-css-linear-gradients-631d9a895caf) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
-- [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)[@lizimeow认领]
+- [An Introduction to the CSS will-change Property](http://www.sitepoint.com/introduction-css-will-change-property/) by [@Nick Salloum](http://www.sitepoint.com/author/nsalloum/)——[译文](http://www.w3cplus.com/css3/introduction-css-will-change-property.html) by [@栗子酱](http://weibo.com/u/2269025244)
 
 ### Typography
 
