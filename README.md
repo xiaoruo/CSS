@@ -33,7 +33,7 @@ CSS  Resources
 ### CSS3
 
 - [Creating Responsive Shapes With Clip-Path And Breaking Out Of The Box](http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)
-- [How to create a CSS3 progress bar](http://www.developerdrive.com/2015/05/how-to-create-a-css3-progress-bar/) by [@ Sam Norton](http://www.developerdrive.com/author/Sam-Norton)
+- [How to create a CSS3 progress bar](http://www.developerdrive.com/2015/05/how-to-create-a-css3-progress-bar/) by [@ Sam Norton](http://www.developerdrive.com/author/Sam-Norton)[已认领 by[@lizimeow](https://github.com/lizimeow)]
 - [Extending the Color Cascade with the CSS currentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)——[译文](http://www.w3cplus.com/css3/extending-the-color-cascade-with-the-css-currentcolor-variable.html)  by [@彦子](http://weibo.com/793617505sy)
 - [An Introduction To Graphical Effects in CSS](http://blogs.adobe.com/dreamweaver/2015/04/an-introduction-to-graphical-effects-in-css.html) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)
 - [Making Sense of Clip Path](https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c) by [@Drew Minns](https://medium.com/@drewisthe)——[译文](http://www.w3cplus.com/css3/using-making-sense-of-clip-path.html) by [@彦子](http://weibo.com/793617505sy)
@@ -42,7 +42,7 @@ CSS  Resources
 
 ### Typography
 
-- [The Complete Beginner’s Guide to Chinese Fonts](http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444) by [@Kendra Schaefer](http://tutsplus.com/authors/kendra-schaefer)[已认领 by[@lizimeow](https://github.com/lizimeow)]
+- [The Complete Beginner’s Guide to Chinese Fonts](http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444) by [@Kendra Schaefer](http://tutsplus.com/authors/kendra-schaefer)
 - [How we use web fonts responsibly, or, avoiding a @font-face-palm](http://www.filamentgroup.com/lab/font-loading.html) by [@Zach](http://www.filamentgroup.com/about/#zach-leatherman)
 - [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
 - [Faster Font Loading with Font Events](https://jonsuh.com/blog/font-loading-with-font-events/) By [@Jonathan Suh](https://jonsuh.com/blog/font-loading-with-font-events/)
