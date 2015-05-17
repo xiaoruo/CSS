@@ -8,7 +8,7 @@ CSS  Resources
 - [HTML vs Body in CSS](https://css-tricks.com/html-vs-body-in-css/) by @Geoff Graham
 - [More Control over Text Decoration](https://css-tricks.com/more-control-over-text-decoration/) by [@Chris Coyier](https://css-tricks.com)
 - [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d) by [@cathy dutton](https://medium.com/@cathy_dutton)
-- [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)
+- [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)[已认领 by[@lizimeow](https://github.com/lizimeow)]
 - [Semantic HTML for Web Content](http://sixrevisions.com/html/semantic-html-web-content/) by [@Jacob Gube](http://twitter.com/sixrevisions)
 - [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham
 - [COLORS IN CSS](http://hugogiraudel.com/2012/11/27/css-colors/) by [@Hugo](http://hugogiraudel.com/)
