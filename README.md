@@ -25,7 +25,7 @@ CSS  Resources
 
 ### Grid
 
-- [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/) by [@Ryan Morr](http://www.sitepoint.com/author/rmorr/)
+- [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/) by [@Ryan Morr](http://www.sitepoint.com/author/rmorr/)(已认领 by 白粥)
 
 
 ### CSS3
