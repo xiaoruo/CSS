@@ -13,7 +13,7 @@ CSS  Resources
 - [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham
 - [COLORS IN CSS](http://hugogiraudel.com/2012/11/27/css-colors/) by [@Hugo](http://hugogiraudel.com/)
 - [CSS FONT SIZING](http://bitsofco.de/2015/css-font-sizing/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)
-- [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/) by [@Gion Kunz](https://mindtheshift.wordpress.com/about/)(已认领 by [白粥](https://github.com/baizhou))
+- [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/) by [@Gion Kunz](https://mindtheshift.wordpress.com/about/)——[译文](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html) by [@白粥](https://github.com/baizhou)
 - [7 CSS Units You Might Not Know About](http://webdesign.tutsplus.com/articles/7-css-units-you-might-not-know-about--cms-22573) by [@Jonathan Cutrell](http://tutsplus.com/authors/jonathan-cutrell)
 - [BEM 101](https://css-tricks.com/bem-101/) by [@Joe Richardson](http://lifes.gd/)
 - [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)—— [译文](http://www.w3cplus.com/css/a-primer-to-background-positioning-in-css.html) by[@小八](https://github.com/tianzhipeng-git)
