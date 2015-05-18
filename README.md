@@ -54,7 +54,7 @@ CSS  Resources
 - [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
 - [Animating CSS-Only Hamburger Menu Icons](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) by [@Nick Salloum](http://speckyboy.com/author/nick-salloum/)
 - [In Pieces: A rare specimen of CSS-based animation](http://motionographer.com/2015/03/19/in-pieces-a-rare-specimen-of-css-based-animation/) by [@JUSTIN CONE](http://justincone.com/) [小健已认领]
-- [Adding Appeal to Your Animations on the Web](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649) by [@Donovan Hutchinson](http://tutsplus.com/authors/donovan-hutchinson)--[译文](http://helkyle.com/2015/05/16/Adding-Appeal-to-Your-Animations-on-the-Web/)by[晓楷](http://helkyle.com)
+- [Adding Appeal to Your Animations on the Web](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649) by [@Donovan Hutchinson](http://tutsplus.com/authors/donovan-hutchinson)--[译文](http://www.w3cplus.com/css3/adding-appeal-to-your-animations-on-the-web.html)by[晓楷](http://helkyle.com)
 - [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/) by [@Rachel Nabors](http://www.smashingmagazine.com/author/rachelnabors/)
 - [Animation Principles for the Web](https://cssanimation.rocks/principles/)
 - [Invisible animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5) by [@Steven Fabre](https://medium.com/@stevenfabre)
