@@ -49,7 +49,7 @@ CSS  Resources
 
 ### Animation
 
-- [Touch-friendly Animated Hamburger Icons](http://w3bits.com/animated-hamburger-icons/) by [@Rahul Arora](http://twitter.com/w3bits)
+- [Touch-friendly Animated Hamburger Icons](http://w3bits.com/animated-hamburger-icons/) by [@Rahul Arora](http://twitter.com/w3bits)[已认领]by[晓楷](http://helkyle.com)
 - [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)
 - [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
 - [Animating CSS-Only Hamburger Menu Icons](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) by [@Nick Salloum](http://speckyboy.com/author/nick-salloum/)
@@ -82,3 +82,5 @@ CSS  Resources
 ### Components
 
 - [Designing Front-End Components](http://ponyfoo.com/articles/designing-front-end-components)
+
+
