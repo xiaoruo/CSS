@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
 - [The At-Rules of CSS](https://css-tricks.com/the-at-rules-of-css/) by @Geoff Graham
 - [ICONS AND TYPE](http://snook.ca/archives/html_and_css/icons-and-type) by [@Jonathan Snook](http://snook.ca/)
 - [HTML vs Body in CSS](https://css-tricks.com/html-vs-body-in-css/) by @Geoff Graham
@@ -49,6 +50,7 @@ CSS  Resources
 
 ### Animation
 
+- [Guidelines for Animation Timing](http://blog.percolatestudio.com/design/animation-timing-guidelines/) by [@DOMINIC NGUYEN](http://blog.percolatestudio.com/author/dom/)
 - [Touch-friendly Animated Hamburger Icons](http://w3bits.com/animated-hamburger-icons/) by [@Rahul Arora](http://twitter.com/w3bits)——[译文](http://www.w3cplus.com/css3/animated-hamburger-icons.html) by [@晓楷](http://helkyle.com)
 - [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)
 - [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
