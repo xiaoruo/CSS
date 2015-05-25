@@ -6,14 +6,14 @@ CSS  Resources
 - [The End of Global CSS](https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
 - [The At-Rules of CSS](https://css-tricks.com/the-at-rules-of-css/) by @Geoff Graham
 - [ICONS AND TYPE](http://snook.ca/archives/html_and_css/icons-and-type) by [@Jonathan Snook](http://snook.ca/)
-- [HTML vs Body in CSS](https://css-tricks.com/html-vs-body-in-css/) by @Geoff Graham
+- [HTML vs Body in CSS](https://css-tricks.com/html-vs-body-in-css/) by @Geoff Graham[已认领 by[@晓婼](https://github.com/xiaoruo)
 - [More Control over Text Decoration](https://css-tricks.com/more-control-over-text-decoration/) by [@Chris Coyier](https://css-tricks.com)
 - [Surviving CSS](https://medium.com/@cathy_dutton/surviving-css-be306ef3de6d) by [@cathy dutton](https://medium.com/@cathy_dutton)
 - [3 Things (Almost) No One Knows About CSS](http://www.sitepoint.com/3-things-almost-one-knows-css/)  by [@Kevin Yank](http://www.sitepoint.com/author/kevin-yank/)[已认领 by[@lizimeow](https://github.com/lizimeow)]
 - [Semantic HTML for Web Content](http://sixrevisions.com/html/semantic-html-web-content/) by [@Jacob Gube](http://twitter.com/sixrevisions)
 - [Left Half and Right Half Layout – Many Different Ways](https://css-tricks.com/left-and-right/) by @Geoff Graham
 - [COLORS IN CSS](http://hugogiraudel.com/2012/11/27/css-colors/) by [@Hugo](http://hugogiraudel.com/)
-- [CSS FONT SIZING](http://bitsofco.de/2015/css-font-sizing/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)
+- [CSS FONT SIZING](http://bitsofco.de/2015/css-font-sizing/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)[已认领 by[@晓婼](https://github.com/xiaoruo)
 - [R.I.P. REM, Viva CSS Reference Pixel!](https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/) by [@Gion Kunz](https://mindtheshift.wordpress.com/about/)——[译文](http://www.w3cplus.com/css/r-i-p-rem-viva-css-reference-pixel.html) by [@白粥](https://github.com/baizhou)
 - [7 CSS Units You Might Not Know About](http://webdesign.tutsplus.com/articles/7-css-units-you-might-not-know-about--cms-22573) by [@Jonathan Cutrell](http://tutsplus.com/authors/jonathan-cutrell)(已认领 by [@白粥](https://github.com/baizhou))
 - [BEM 101](https://css-tricks.com/bem-101/) by [@Joe Richardson](http://lifes.gd/)
